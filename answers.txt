@@ -1,0 +1,3 @@
+Git Nedir?
+Cevap: Git bir “Versiyon Kontrol Sistemi” dir. Git sayesinde yapacağınız projelerin adım adım versiyonlarının kopyalarını
+alarak daha sonra ihtiyaç duyduğunuzda aldığınız kopyalara yani versiyonlara kolayca dönebiliyorsunuz.
